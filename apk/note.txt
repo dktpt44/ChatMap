@@ -1,0 +1,1 @@
+Please note that this apk will only work if you are under NYU network and have the backend running in the specific server.
